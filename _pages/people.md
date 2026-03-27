@@ -125,7 +125,7 @@ nav_order: 8
     <div class="card"> 
       <img src="{{ site.baseurl }}/assets/img/finn-sherry.png"> 
       <div class="card-body"> 
-        <p class="card-title">Finn Sherry</p> 
+        <p class="card-title">Finn Sherry</p>
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
@@ -137,6 +137,16 @@ nav_order: 8
       <div class="card-body"> 
         <p class="card-title">Nicky van den Berg</p> 
         <p class="card-text">TU Eindhoven<br>Maastricht UMC+</p> 
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-item"> 
+    <div class="card"> 
+      <img src="{{ site.baseurl }}/assets/img/gijs-bellaard.jpeg"> 
+      <div class="card-body"> 
+        <p class="card-title">Gijs Bellaard</p> 
+        <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
   </div> 
@@ -160,6 +170,7 @@ nav_order: 8
 - Jean-François Aujol, Université Bordeaux, France
 - Danielle Bednarski, DESY, Germany
 - Robert Beinert, TU Berlin, Germany
+- Erik Bekkers, University of Amsterdam, Netherlands
 - Alessandro Benfenati, University of Milan, Italy
 - Martin Benning, University College London, United Kingdom
 - Marcelo Bertalmío, Universitat Pompeu Fabra, Spain
@@ -209,6 +220,7 @@ nav_order: 8
 - Jonas Latz, University of Manchester, United Kingdom
 - François Bernard, Lauze University of Copenhagen, Denmark
 - Damiana Lazzaro, University of Bologna, Italy
+- Tristan van Leeuwen, University of Utrecht & CWI, Netherlands
 - Carole Le Guyader, INSA Rouen Normandie, France
 - Jan Lellmann, University of Lübeck, Germany
 - Tony Lindeberg, KTH Royal Institute of Technology, Sweden
@@ -223,6 +235,7 @@ nav_order: 8
 - Alasdair James Newson, ISIR, France
 - Thomas Oberlin, ISAE-SUPAERO, France
 - Ozan Oktem, KTH - Royal Institute of Technology, Sweden
+- Gautam Pai, University of Twente, Netherlands
 - Nicolas Papadakis, CNRS, France
 - Barbara Pascal, CNRS, France
 - Jean-Christophe Pesquet, University Paris-Saclay, France
@@ -247,6 +260,7 @@ nav_order: 8
 - Andrea Sebastiani, University of Modena and Reggio Emilia, Italy
 - Samuli Siltanen, University of Helsinki, Finland
 - Ferdia Sherry, University of Cambridge, United Kingdom
+- Bart Smets, Eindhoven University of Technology, Netherlands
 - Stefan Sommer, University of Copenhagen, Denmark
 - Emmanuel Soubies, CNRS, France
 - Jean-Luc Starck, CEA Saclay, France
@@ -260,7 +274,3 @@ nav_order: 8
 - Joachim Weickert, Saarland University, Germany
 - Pierre Weiss, CNRS & Université de Toulouse, France
 - Martin Welk, UMIT TIROL, Hall/Tyrol, Austria
-- Tristan van Leeuwen, University of Utrecht & CWI, Netherlands
-- Gautam Pai, University of Twente, Netherlands
-- Erik Bekkers, University of Amsterdam, Netherlands
-- Bart Smets, Eindhoven University of Technology, Netherlands

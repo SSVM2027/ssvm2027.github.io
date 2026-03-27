@@ -36,7 +36,7 @@ The core focus is on the mathematical formulation of imaging problems using cont
 
 <p>
 Submissions to this conference cover a wide variety of intersection points between mathematics and imaging.
-A selection of typical topics include:
+A selection of topics include:
 </P>
 
 - Geometric Learning
