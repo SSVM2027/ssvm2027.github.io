@@ -2,11 +2,10 @@
 layout: page
 permalink: /important-dates/
 title: Important dates
-description: 
+description:
 nav: true
 nav_order: 2
 ---
-
 
 <ul>
 <li>20<sup>th</sup> of December 2026: <b>Submission deadline</b> </li>

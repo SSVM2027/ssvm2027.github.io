@@ -2,7 +2,7 @@
 layout: page
 permalink: /registration/
 title: Registration
-description: 
+description:
 nav: true
 nav_order: 5
 ---

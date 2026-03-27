@@ -10,7 +10,7 @@ profile:
   align: right
   image: koningshof.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -39,37 +39,37 @@ Submissions to this conference cover a wide variety of intersection points betwe
 A selection of typical topics include:
 </P>
 
-- Geometric Learning 
-- 3D vision 
-- Approximation methods in imaging 
-- Compressed sensing 
-- Convex and nonconvex optimization 
-- Cross-scale structure 
-- Differential geometry and invariants 
-- Image- and feature analysis 
-- Imaging modalities 
-- Implicit surfaces 
-- Inverse problems in imaging 
-- Machine learning in imaging 
-- Manifold-valued data processing 
-- Mathematics of novel imaging methods 
-- Medical imaging and other applications      
-- Motion estimation and tracking 
-- Multi-orientation and multi-scale modelling and analysis 
-- Optical flow 
-- Optimization methods in imaging 
-- PDEs in data processing 
-- Perceptual grouping 
-- Image registration 
-- Restoration and reconstruction 
-- Scale-space methods 
-- Segmentation 
-- Selection of salient scales 
-- Shape from X 
-- Stereo and multi-view reconstruction 
-- (Sub-)Riemannian geometry 
-- Surface and shape modelling and analysis 
-- Variational methods 
+- Geometric Learning
+- 3D vision
+- Approximation methods in imaging
+- Compressed sensing
+- Convex and nonconvex optimization
+- Cross-scale structure
+- Differential geometry and invariants
+- Image- and feature analysis
+- Imaging modalities
+- Implicit surfaces
+- Inverse problems in imaging
+- Machine learning in imaging
+- Manifold-valued data processing
+- Mathematics of novel imaging methods
+- Medical imaging and other applications
+- Motion estimation and tracking
+- Multi-orientation and multi-scale modelling and analysis
+- Optical flow
+- Optimization methods in imaging
+- PDEs in data processing
+- Perceptual grouping
+- Image registration
+- Restoration and reconstruction
+- Scale-space methods
+- Segmentation
+- Selection of salient scales
+- Shape from X
+- Stereo and multi-view reconstruction
+- (Sub-)Riemannian geometry
+- Surface and shape modelling and analysis
+- Variational methods
 
 ## Support
 

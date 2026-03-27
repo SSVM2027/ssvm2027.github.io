@@ -2,7 +2,7 @@
 layout: page
 permalink: /submission/
 title: Submission
-description: 
+description:
 nav: true
 nav_order: 4
 ---

@@ -19,7 +19,7 @@ nav_order: 8
 #       <p>Your City, State 12345</p>
 #   - align: left
 #     image: prof_pic.jpg
-#     content: 
+#     content:
 #     image_circular: false # crops the image to make it circular
 #     more_info: >
 #       <p>555 your office number</p>
@@ -79,7 +79,7 @@ nav_order: 8
         <p class="card-text">University of Amsterdam</p> 
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="grid-item"> 
     <div class="card"> 
@@ -89,7 +89,7 @@ nav_order: 8
         <p class="card-text">University of Copenhagen</p> 
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="grid-item"> 
     <div class="card"> 
@@ -119,7 +119,7 @@ nav_order: 8
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="grid-item"> 
     <div class="card"> 
@@ -129,7 +129,7 @@ nav_order: 8
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="grid-item"> 
     <div class="card"> 
@@ -149,7 +149,7 @@ nav_order: 8
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
-  </div> 
+  </div>
 
 </div>
 
@@ -176,8 +176,8 @@ nav_order: 8
 - Marcello Carioni, University of Twente, Netherlands
 - Antonin Chambolle, CNRS CEREMADE, Université Paris-Dauphine, France
 - Raymond Chan, Lingnan University, Hong Kong
--  Laetitia Chapel, IRISA, France
--  Laurent Cohen, Université Paris Dauphine PSL, France
+- Laetitia Chapel, IRISA, France
+- Laurent Cohen, Université Paris Dauphine PSL, France
 - Julie Delon, Université Paris Cité, France
 - Agnes Desolneux, CNRS and ENS Paris-Saclay, France
 - Nicolas Dobigeon, University of Toulouse, France
@@ -201,7 +201,7 @@ nav_order: 8
 - José A. Iglesias, University of Twente, Netherlands
 - Sung Ha Kang, Georgia Institute of Technology, United States
 - Hanne Kekkonen, Delft University of Technology, Netherlands
-- Zeljko Kereta,    University College London, United Kingdom
+- Zeljko Kereta, University College London, United Kingdom
 - Erich Kobler, University of Bonn, Germany
 - Yury Korolev, University of Bath, United Kingdom
 - Arjan Kuijper, Fraunhofer IGD & TU Darmstadt, Germany

@@ -19,7 +19,7 @@ children:
     permalink: http://ssvm2015.math.u-bordeaux.fr/
   - title: 2013 - Schloss Seggau, Austria
     permalink: http://wikicfp.com/cfp/servlet/event.show
-  - title:  2011 - Ein-Gedi, Israel
+  - title: 2011 - Ein-Gedi, Israel
     permalink: https://dblp.org/db/conf/scalespace/ssvm2011.html
   - title: 2009 - Voss, Norway
     permalink: https://dblp.org/db/conf/scalespace/ssvm2009.html

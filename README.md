@@ -6,7 +6,6 @@ Based on [al-folio](https://github.com/alshedivat/al-folio).
 
 Import directories and files:
 
-
 - `_pages` The pages of the site.
   - `_pages/about.md` Main landing page, including news items.
   - `_pages/important-dates.md`
@@ -18,7 +17,6 @@ Import directories and files:
   - `_pages/previous-editions.md`
 - `assets/img` Add images here and refer to them with `{{ site.baseurl }}/assets/img/some_file.png`.
 - `_news` Each `.md` file will in this directory will create a news item on the mai page.
-
 
 ## Deployment
 

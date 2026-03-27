@@ -63,13 +63,9 @@ ul.task-list input[type="checkbox"] {
     object-fit: cover;
     height: 270px;
     width: 180px;
-    border-radius: 0.25rem 0.25rem 0 0  !important;
+    border-radius: 0.25rem 0.25rem 0 0 !important;
   }
 }
-
-
-
-
 
 // Grid
 .row {
@@ -94,12 +90,9 @@ ul.task-list input[type="checkbox"] {
   justify-content: space-evenly;
 
   grid-item {
-      padding: 0.5rem;
+    padding: 0.5rem;
   }
 }
-
-
-
 
 // Profile
 
