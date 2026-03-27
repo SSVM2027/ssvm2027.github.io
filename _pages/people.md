@@ -149,7 +149,17 @@ nav_order: 8
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
-  </div> 
+  </div>
+
+  <div class="grid-item"> 
+    <div class="card"> 
+      <img src="{{ site.baseurl }}/assets/img/gea-deddens.png"> 
+      <div class="card-body"> 
+        <p class="card-title">Gea Deddens</p> 
+        <p class="card-text">TU Eindhoven</p> 
+      </div>
+    </div>
+  </div>
   
   <div class="grid-item"> 
     <div class="card"> 
