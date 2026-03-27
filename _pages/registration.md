@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Registration/
+permalink: /registration/
 title: Registration
 description: 
 nav: true
