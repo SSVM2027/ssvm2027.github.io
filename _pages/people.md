@@ -115,7 +115,7 @@ nav_order: 8
     <div class="card"> 
       <img src="{{ site.baseurl }}/assets/img/leanne-vis.png"> 
       <div class="card-body"> 
-        <p class="card-title">Leanna Vis</p> 
+        <p class="card-title">Leanne Vis</p> 
         <p class="card-text">TU Eindhoven</p> 
       </div>
     </div>
