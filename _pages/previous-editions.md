@@ -7,7 +7,7 @@ dropdown: true
 children:
   - title: 2025 - Totnes, United Kingdom
     permalink: https://sites.google.com/view/ssvm-2025/
-  - title: 2023 - Ardinia, Italy
+  - title: 2023 - Sardinia, Italy
     permalink: https://events.unibo.it/ssvm2023
   - title: 2021 - Cabourg, France / online
     permalink: https://ssvm2021.sciencesconf.org/

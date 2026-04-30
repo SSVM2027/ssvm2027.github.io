@@ -27,6 +27,10 @@ latest_posts:
 ---
 
 <p>
+⏰ <u>Paper submission deadline: 20<sup>th</sup> of December 2026</u>
+</p>
+
+<p>
 The 11<sup>th</sup> edition of SSVM will convene in Veldhoven, the Netherlands, continuing the biennal series following the 2025 edition in Dartington, UK.
 The conference serves as a primary forum for researchers at the intersection of continuous mathematics and computer vision.
 The core focus is on the mathematical formulation of imaging problems using continuous-domain modeling, including but not limited to: variational methods, geometry, PDEs, machine learning etc.
@@ -36,6 +40,7 @@ The core focus is on the mathematical formulation of imaging problems using cont
 
 <p>
 Submissions to this conference cover a wide variety of intersection points between mathematics and imaging.
+Have a look at the <a href="https://link.springer.com/conference/scalespace">proceedings</a> of previous editions.
 A selection of topics include:
 </P>
 
