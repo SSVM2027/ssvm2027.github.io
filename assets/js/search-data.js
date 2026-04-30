@@ -58,8 +58,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://sites.google.com/view/ssvm-2025/";
               },
-            },{id: "dropdown-2023-ardinia-italy",
-              title: "2023 - Ardinia, Italy",
+            },{id: "dropdown-2023-sardinia-italy",
+              title: "2023 - Sardinia, Italy",
               description: "",
               section: "Dropdown",
               handler: () => {
