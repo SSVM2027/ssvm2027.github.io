@@ -44,13 +44,16 @@ Have a look at the <a href="https://link.springer.com/conference/scalespace">pro
 A selection of topics include:
 </P>
 
-- Geometric Learning
 - 3D vision
 - Approximation methods in imaging
 - Compressed sensing
 - Convex and nonconvex optimization
 - Cross-scale structure
 - Differential geometry and invariants
+- Flow matching and optimal transport
+- Geometry and metric learning from generative models
+- Geometric learning
+- Image registration
 - Image- and feature analysis
 - Imaging modalities
 - Implicit surfaces
@@ -65,7 +68,6 @@ A selection of topics include:
 - Optimization methods in imaging
 - PDEs in data processing
 - Perceptual grouping
-- Image registration
 - Restoration and reconstruction
 - Scale-space methods
 - Segmentation
