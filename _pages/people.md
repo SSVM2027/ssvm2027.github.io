@@ -173,7 +173,7 @@ nav_order: 8
 
 </div>
 
-## Program Committee
+## Program Committee (Tentative)
 
 - Simon Arridge, University College London, United Kingdom
 - Andrea Aspri, University of Milan, Italy
