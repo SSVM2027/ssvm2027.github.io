@@ -104,7 +104,7 @@ SSVM 2027 is grateful for the support of the following organizations:
 
 <div class="column">
 <a href="https://www.4tu.nl/ami/">
-<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:70px;">
+<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:50px;">
 </a>
 </div>
 
