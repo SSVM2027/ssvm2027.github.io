@@ -31,7 +31,7 @@ latest_posts:
 </p>
 
 <p>
-The 11<sup>th</sup> edition of SSVM will convene in Veldhoven, the Netherlands, continuing the biennal series following the 2025 edition in Dartington, UK.
+The 11<sup>th</sup> edition of SSVM will convene in Veldhoven, the Netherlands, continuing the biennial series following the 2025 edition in Dartington, UK.
 The conference serves as a primary forum for researchers at the intersection of continuous mathematics and computer vision.
 The core focus is on the mathematical formulation of imaging problems using continuous-domain modeling, including but not limited to: variational methods, geometry, PDEs, machine learning etc.
 </p>
@@ -104,7 +104,7 @@ SSVM 2027 is grateful for the support of the following organizations:
 
 <div class="column">
 <a href="https://www.4tu.nl/ami/">
-<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:70px;">
+<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:50px;">
 </a>
 </div>
 
