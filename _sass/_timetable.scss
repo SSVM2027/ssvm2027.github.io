@@ -1,0 +1,81 @@
+@use "sass:color";
+
+table.timetable {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  table-layout: fixed;
+  border-collapse: collapse;
+  overflow: hidden;
+
+  tr:hover td:not(:empty)::before,
+  tr.highlighted-span td:not(:empty)::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: color-mix(in srgb, var(--global-text-color, gray) 15%, transparent);
+    pointer-events: none;
+    z-index: 1;
+    border-radius: inherit;
+  }
+
+  td:not(:empty):hover::after,
+  th:hover::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: -5000px;
+    height: 10000px;
+    width: 100%;
+    background-color: color-mix(in srgb, var(--global-text-color, gray) 15%, transparent);
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  th,
+  td {
+    font-size: 9pt;
+    padding: 2px 6px;
+    text-align: center;
+    border: 1pt solid var(--global-bg-color, white);
+    position: relative;
+    border-radius: 4px;
+  }
+
+  th {
+    border-bottom: 1pt solid var(--global-text-color, gray);
+    padding: 4px 10px;
+  }
+
+  tbody:before {
+    line-height: 2pt;
+    content: "-";
+    display: block;
+    visibility: hidden;
+  }
+
+  /* Time column styling */
+  td:first-child {
+    white-space: nowrap;
+    text-align: left;
+    width: auto;
+    font-weight: bold;
+  }
+
+  .bg-food {
+    background-color: rgba(#55c6ef, 0.4);
+  }
+
+  .bg-break {
+    background-color: rgba(#a4e596, 0.4);
+  }
+
+  .bg-session {
+    background-color: rgba(#f29105, 0.4);
+  }
+
+  .bg-alt {
+    background-color: rgba(#e0e0e0, 0.4);
+  }
+}
