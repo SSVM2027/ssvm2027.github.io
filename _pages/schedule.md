@@ -64,13 +64,13 @@ The conference's overall schedule is as follows:
     <tr style="height: 2rem;">
       <td>07:00 - 08:45</td>
       <td></td>
-      <td class="bg-food no-bottom-border" colspan="4">Breakfast</td>
+      <td class="bg-food" colspan="4">Breakfast</td>
     </tr>
     <tr style="height: 0.7rem;">
       <td>08:45 - 09:00</td>
       <td></td>
       <td class="bg-session">Opening</td>
-      <td class="bg-food no-top-border" colspan="3">&nbsp;</td>
+      <td class="bg-food" colspan="3">&nbsp;</td>
     </tr>
     <tr style="height: 2.7rem;">
       <td>09:00 - 10:00</td>
@@ -118,7 +118,7 @@ The conference's overall schedule is as follows:
     <tr style="height: 5.3rem;">
       <td>19:00 - 21:00</td>
       <td class="bg-food" colspan="3">Dinner</td>
-      <td class="bg-food">Conference Dinner</td>
+      <td class="bg-food">Conference<br>Dinner</td>
     </tr>
     <tr>
       <td>21:00 - 23:00</td>
