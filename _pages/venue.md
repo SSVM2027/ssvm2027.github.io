@@ -23,14 +23,14 @@ A former convent set in the lush woodland in the Brabantse Kempen, Koningshof of
 ## Impressions
 
 <p style="text-align:center">
-    <img src="{{ site.baseurl }}/assets/img/koningshof_impression1.png">
+    <img style="max-width:100%" src="{{ site.baseurl }}/assets/img/koningshof_impression1.png">
 </p>
 <p style="text-align:center">
-    <img src="{{ site.baseurl }}/assets/img/koningshof_impression2.png">
+    <img style="max-width:100%" src="{{ site.baseurl }}/assets/img/koningshof_impression2.png">
 </p>
 <p style="text-align:center">
-    <img src="{{ site.baseurl }}/assets/img/koningshof_impression3.png">
+    <img style="max-width:100%" src="{{ site.baseurl }}/assets/img/koningshof_impression3.png">
 </p>
 <p style="text-align:center">
-    <img src="{{ site.baseurl }}/assets/img/koningshof_impression4.png">
+    <img style="max-width:100%" src="{{ site.baseurl }}/assets/img/koningshof_impression4.png">
 </p>

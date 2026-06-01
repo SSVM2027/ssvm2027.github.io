@@ -53,75 +53,75 @@ The conference's overall schedule is as follows:
 <thead>
     <tr>
         <th>Time</th>
-        <th>Sunday June 6</th>
-        <th>Monday June 7</th>
-        <th>Tuesday June 8</th>
-        <th>Wednesday June 9</th>
-        <th>Thursday June 10</th>
+        <th>Sunday June&nbsp;6</th>
+        <th>Monday June&nbsp;7</th>
+        <th>Tuesday June&nbsp;8</th>
+        <th>Wednesday June&nbsp;9</th>
+        <th>Thursday June&nbsp;10</th>
     </tr>
 </thead>
 <tbody>
     <tr style="height: 2rem;">
-      <td>07:00 - 08:45</td>
+      <td>07:00-08:45</td>
       <td></td>
       <td class="bg-food" colspan="4">Breakfast</td>
     </tr>
     <tr style="height: 0.7rem;">
-      <td>08:45 - 09:00</td>
+      <td>08:45-09:00</td>
       <td></td>
       <td class="bg-session">Opening</td>
       <td class="bg-food" colspan="3">&nbsp;</td>
     </tr>
     <tr style="height: 2.7rem;">
-      <td>09:00 - 10:00</td>
+      <td>09:00-10:00</td>
       <td></td>
       <td class="bg-session" colspan="4">Plenary Session</td>
     </tr>
     <tr style="height: 1.3rem;">
-      <td>10:00 - 10:30</td>
+      <td>10:00-10:30</td>
       <td></td>
       <td class="bg-break" colspan="4">Coffee Break</td>
     </tr>
     <tr style="height: 5.3rem;">
-      <td>10:30 - 12:30</td>
+      <td>10:30-12:30</td>
       <td></td>
       <td class="bg-session" colspan="4">Orals (4)</td>
     </tr>
     <tr style="height: 4rem;">
-      <td>12:30 - 14:00</td>
+      <td>12:30-14:00</td>
       <td></td>
       <td class="bg-food" colspan="4">Lunch</td>
     </tr>
     <tr style="height: 4rem;">
-      <td>14:00 - 15:30</td>
+      <td>14:00-15:30</td>
       <td></td>
       <td class="bg-session" colspan="2">Orals (3)</td>
       <td class="bg-alt" rowspan="5">Excursion</td>
     </tr>
     <tr style="height: 1.3rem;">
-      <td>15:30 - 16:00</td>
+      <td>15:30-16:00</td>
       <td class="bg-alt" rowspan="4">Registration</td>
       <td class="bg-break" colspan="2">Coffee Break</td>
     </tr>
     <tr style="height: 1.3rem;">
-      <td>16:00 - 16:30</td>
+      <td>16:00-16:30</td>
       <td class="bg-session" colspan="2">Orals (1)</td>
     </tr>
     <tr style="height: 4rem;">
-      <td>16:30 - 18:00</td>
+      <td>16:30-18:00</td>
       <td class="bg-session" colspan="2">Poster Session</td>
     </tr>
     <tr style="height: 2.7rem;">
-      <td>18:00 - 19:00</td>
+      <td>18:00-19:00</td>
       <td class="bg-break" colspan="2">Break</td>
     </tr>
     <tr style="height: 5.3rem;">
-      <td>19:00 - 21:00</td>
+      <td>19:00-21:00</td>
       <td class="bg-food" colspan="3">Dinner</td>
       <td class="bg-food">Conference<br>Dinner</td>
     </tr>
     <tr>
-      <td>21:00 - 23:00</td>
+      <td>21:00-23:00</td>
       <td class="bg-alt">Drinks</td>
       <td class="bg-alt">SSVM Board Meeting</td>
     </tr>

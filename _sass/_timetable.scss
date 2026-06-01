@@ -36,7 +36,7 @@ table.timetable {
   th,
   td {
     font-size: 9pt;
-    padding: 2px 6px;
+    padding: 2px 4px;
     text-align: center;
     position: relative;
     border-radius: 4px;
@@ -63,6 +63,7 @@ table.timetable {
     text-align: left;
     width: auto;
     font-weight: bold;
+    font-size: 9pt;
   }
 
   .bg-food {
