@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: # leave blank to include all the news in the `_news` folder
 
@@ -78,7 +78,7 @@ A selection of topics include:
 - Surface and shape modelling and analysis
 - Variational methods
 
-## Support
+### Support
 
 SSVM 2027 is grateful for the support of the following organizations:
 
@@ -86,26 +86,39 @@ SSVM 2027 is grateful for the support of the following organizations:
 
 <div class="column">
 <a href="https://www.nwo.nl/">
-<img src="{{ site.baseurl }}/assets/img/nwo_logo.svg" style="width:auto; height:140px;">
+<img src="{{ site.baseurl }}/assets/img/nwo_logo.svg" style="width:auto; height:110px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://aimath.nl/">
-<img src="{{ site.baseurl }}/assets/img/aim_logo.png" style="width:auto; height:80px;">
+<img src="{{ site.baseurl }}/assets/img/aim_logo.png" style="width:auto; height:64px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://www.asml.com/en">
-<img src="{{ site.baseurl }}/assets/img/asml_logo.svg" style="width:auto; height:50px;">
+<img src="{{ site.baseurl }}/assets/img/asml_logo.svg" style="width:auto; height:40px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://www.4tu.nl/ami/">
-<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:50px;">
+<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:40px;">
 </a>
 </div>
 
-<div>
+</div>
+
+### Previous Editions
+
+- 2025 - <a href="https://sites.google.com/view/ssvm-2025/">Totnes, United Kingdom</a>
+- 2023 - <a href="https://events.unibo.it/ssvm2023">Sardinia, Italy</a>
+- 2021 - <a href="https://ssvm2021.sciencesconf.org/">Cabourg, France / online</a>
+- 2019 - <a href="https://ssvm2019.mic.uni-luebeck.de/">Hofgeismar, Germany</a>
+- 2017 - <a href="https://ssvm2017.compute.dtu.dk/">Kolding, Denmark</a>
+- 2015 - <a href="http://ssvm2015.math.u-bordeaux.fr/">Lège Cap Ferret, France</a>
+- 2013 - <a href="http://wikicfp.com/cfp/servlet/event.show">Schloss Seggau, Austria</a>
+- 2011 - <a href="https://dblp.org/db/conf/scalespace/ssvm2011.html">Ein-Gedi, Israel</a>
+- 2009 - <a href="https://dblp.org/db/conf/scalespace/ssvm2009.html">Voss, Norway</a>
+- 2007 - <a href="https://dblp.org/db/conf/scalespace/ssvm2007.html">Ischia, Italy</a>

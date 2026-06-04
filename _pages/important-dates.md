@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /important-dates/
-title: Important dates
+title: Important&nbsp;dates
 description:
 nav: true
 nav_order: 2

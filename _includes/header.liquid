@@ -1,6 +1,6 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+  <nav id="navbar" class="navbar navbar-light navbar-expand-md {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if page.permalink != '/__' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
@@ -18,7 +18,7 @@
             {% endif %}
           {% else %}
             {% comment %} {{- site.title -}} {% endcomment %}
-            <img src="{{ site.baseurl }}/assets/img/ssvm2027logo.png" style="max-width:100px;width:100%">
+            <img src="{{ site.baseurl }}/assets/img/ssvm_logo_lv1.svg" style="max-width:140px;vertical-align: middle;">
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
