@@ -88,26 +88,35 @@ SSVM 2027 is grateful for the support of the following organizations:
 
 <div class="column">
 <a href="https://www.nwo.nl/">
-<img src="{{ site.baseurl }}/assets/img/nwo_logo.svg" style="width:auto; height:110px;">
+<img src="{{ site.baseurl }}/assets/img/nwo_logo.svg" style="width:auto; height:100px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://aimath.nl/">
-<img src="{{ site.baseurl }}/assets/img/aim_logo.png" style="width:auto; height:64px;">
+<img src="{{ site.baseurl }}/assets/img/aim_logo.png" style="width:auto; height:60px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://www.asml.com/en">
-<img src="{{ site.baseurl }}/assets/img/asml_logo.svg" style="width:auto; height:40px;">
+<img src="{{ site.baseurl }}/assets/img/asml_logo.svg" style="width:auto; height:36px;">
 </a>
 </div>
 
 <div class="column">
 <a href="https://www.4tu.nl/ami/">
-<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:40px;">
+<img src="{{ site.baseurl }}/assets/img/4tuami_logo.png" style="width:auto; height:36px;">
 </a>
+</div>
+
+<div class="column" style="display:block; justify-content: center;">
+<a href="https://link.springer.com/journal/10851">
+<img src="{{ site.baseurl }}/assets/img/springer.png" style="display:flex; margin:auto; width:auto; height:30px;">
+</a>
+<div style="font-family:serif; font-size:90%; text-align:center; line-height:95%; font-variant: small-caps;">
+Journal of  Mathematical<br>Imaging and Vision
+</div>
 </div>
 
 </div>
