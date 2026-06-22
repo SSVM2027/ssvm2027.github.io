@@ -41,42 +41,44 @@ The core focus is on the mathematical formulation of imaging problems using cont
 <p>
 Submissions to this conference cover a wide variety of intersection points between mathematics and imaging.
 Have a look at the <a href="https://link.springer.com/conference/scalespace">proceedings</a> of previous editions.
-A selection of topics include:
+A selection of topics includes:
 </P>
 
-- 3D vision
-- Approximation methods in imaging
-- Compressed sensing
-- Convex and nonconvex optimization
-- Cross-scale structure
-- Differential geometry and invariants
-- Flow matching and optimal transport
-- Geometry and metric learning from generative models
-- Geometric learning
-- Image registration
-- Image- and feature analysis
-- Imaging modalities
-- Implicit surfaces
-- Inverse problems in imaging
-- Machine learning in imaging
-- Manifold-valued data processing
-- Mathematics of novel imaging methods
-- Medical imaging and other applications
-- Motion estimation and tracking
-- Multi-orientation and multi-scale modelling and analysis
-- Optical flow
-- Optimization methods in imaging
-- PDEs in data processing
-- Perceptual grouping
-- Restoration and reconstruction
-- Scale-space methods
-- Segmentation
-- Selection of salient scales
-- Shape from X
-- Stereo and multi-view reconstruction
-- (Sub-)Riemannian geometry
-- Surface and shape modelling and analysis
-- Variational methods
+<ul class="topic-list">
+  <li>3D vision</li>
+  <li>Approximation methods in imaging</li>
+  <li>Compressed sensing</li>
+  <li>Convex and nonconvex optimization</li>
+  <li>Cross-scale structure</li>
+  <li>Differential geometry and invariants</li>
+  <li>Flow matching and optimal transport</li>
+  <li>Geometry and metric learning from generative models</li>
+  <li>Geometric learning</li>
+  <li>Image registration</li>
+  <li>Image- and feature analysis</li>
+  <li>Imaging modalities</li>
+  <li>Implicit surfaces</li>
+  <li>Inverse problems in imaging</li>
+  <li>Machine learning in imaging</li>
+  <li>Manifold-valued data processing</li>
+  <li>Mathematics of novel imaging methods</li>
+  <li>Medical imaging and other applications</li>
+  <li>Motion estimation and tracking</li>
+  <li>Multi-orientation and multi-scale modelling and analysis</li>
+  <li>Optical flow</li>
+  <li>Optimization methods in imaging</li>
+  <li>PDEs in data processing</li>
+  <li>Perceptual grouping</li>
+  <li>Restoration and reconstruction</li>
+  <li>Scale-space methods</li>
+  <li>Segmentation</li>
+  <li>Selection of salient scales</li>
+  <li>Shape from X</li>
+  <li>Stereo and multi-view reconstruction</li>
+  <li>(Sub-)Riemannian geometry</li>
+  <li>Surface and shape modelling and analysis</li>
+  <li>Variational methods</li>
+</ul>
 
 ### Support
 
