@@ -8,9 +8,8 @@ nav_order: 2
 ---
 
 <ul>
-<li>20<sup>th</sup> of December 2026: <b>Submission deadline</b>❗</li>
-<li>TBD: Notification of acceptance</li>
-<li>TBD: Camera ready deadline</li>
-<li>31<sup>st</sup> of March 2027: Registration opens</li>
-<li>TBD: Registration deadline</li>
+<li><b>Submission deadline</b>: 20<sup>th</sup> of December 2026</li>
+<li>Notification of acceptance: 28<sup>th</sup> of February 2027</li>
+<li>Camera ready deadline: 14<sup>th</sup> of March 2027</li>
+<li>Registration: 14<sup>th</sup> of March until 14<sup>th</sup> of April 2027</li>
 </ul>
