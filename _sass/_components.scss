@@ -320,3 +320,30 @@ ul.topic-list {
     font-size: small;
   }
 }
+
+// Submit button
+
+a.submit-button {
+  display: inline-block;
+  color: var(--global-text-color);
+  background-color: var(--global-theme-color);
+  border-style: solid;
+  border-color: var(--global-theme-color);
+  border-width: 0.2rem;
+  padding: 0.2rem 0.4rem;
+  text-decoration: none;
+  font-size: 1rem;
+  border-radius: 6px;
+  transition:
+    transform 0.2s ease,
+    background 0.25s ease,
+    color 0.25s ease;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+
+  &:active {
+    transform: scale(1.05);
+  }
+}
