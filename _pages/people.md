@@ -173,7 +173,7 @@ nav_order: 8
 
 </div>
 
-## Program Committee (Tentative)
+## Program Committee
 
 - Simon Arridge, University College London, United Kingdom
 - Andrea Aspri, University of Milan, Italy
@@ -183,104 +183,102 @@ nav_order: 8
 - Erik Bekkers, University of Amsterdam, Netherlands
 - Alessandro Benfenati, University of Milan, Italy
 - Martin Benning, University College London, United Kingdom
-- Marcelo Bertalmío, Universitat Pompeu Fabra, Spain
 - Marta Betcke, University College London, United Kingdom
 - Davide Bianchi, Sun Yat-sen University, China
-- Laure Blanc-Féraud, CNRS, France
 - Nicolas Boulle, Imperial College London, United Kingdom
 - Christina Brandt, University of Greifswald, Germany
-- Kristian Bredies, University of Graz, Austria
+<!-- - Kristian Bredies, University of Graz, Austria -->
 - Michael Breuß, Brandenburg Technical University, Germany
+- Christoph Brune, University of Twente, Netherlands
+- Tatiana A. Bubba, University of Ferrara, Italy
 - Leon Bungert, University of Würzburg, Germany
-- Martin Burger, DESY & Universität Hamburg, Germany
+- Martin Burger, Universität Hamburg, Germany
 - Luca Calatroni, University of Genoa, Italy
 - Marcello Carioni, University of Twente, Netherlands
-- Antonin Chambolle, CNRS CEREMADE, Université Paris-Dauphine, France
+- Antonin Chambolle, CNRS, CEREMADE, Université Paris-Dauphine, France
 - Raymond Chan, Lingnan University, Hong Kong
-- Laetitia Chapel, IRISA, France
-- Laurent Cohen, Université Paris Dauphine PSL, France
-- Julie Delon, Université Paris Cité, France
-- Agnes Desolneux, CNRS and ENS Paris-Saclay, France
+- Laetitia Chapel, IRISA, Institut Agro, France
+- Laurent Cohen, Université Paris Dauphine PSL, CNRS, France
+<!-- - Julie Delon, Université Paris Cité, France -->
+- Agnes Desolneux, CNRS, ENS Paris-Saclay, France
 - Nicolas Dobigeon, University of Toulouse, France
 - Marco Donatelli, Universitá dell’Insubria, Italy
 - Yiqiu Dong, Technical University of Denmark, Denmark
 - Remco Duits, Eindhoven University of Technology, Netherlands
-- Vincent Duval, Inria & CEREMADE Université Paris Dauphine PSL, France
+<!-- - Vincent Duval, Inria & CEREMADE Université Paris Dauphine PSL, France -->
 - Matthias Ehrhardt, University of Bath, United Kingdom
 - Jalal Fadili, National Graduate Engineering School of Caen, France
 - Michael Felsberg, Linköping University, Sweden
+- Silvia Gazzola, University of Pisa, Italy
 - Guy Gilboa, Technion, Israel
 - Bart Goossens, Ghent University, Belgium
 - Yann Gousseau, Télécom Paris, France
 - Markus Grasmair, NTNU, Norway
-- Weihong Guo, Case Western Reserve University, United States
+<!-- - Weihong Guo, Case Western Reserve University, United States -->
 - Tommi Heikkilä, LUT University, Finland
-- Johannes Hertrich, University College London, United Kingdom
+- Johannes Hertrich, ENS Paris, France
 - Martin Holler, University of Graz, Austria
-- Samuel Hurault, ENS Paris, France
-- Martin Huska, University of Bologna, Italy
+<!-- - Samuel Hurault, ENS Paris, France -->
 - José A. Iglesias, University of Twente, Netherlands
 - Sung Ha Kang, Georgia Institute of Technology, United States
 - Hanne Kekkonen, Delft University of Technology, Netherlands
 - Zeljko Kereta, University College London, United Kingdom
-- Erich Kobler, University of Bonn, Germany
-- Yury Korolev, University of Bath, United Kingdom
+<!-- - Erich Kobler, University of Bonn, Germany -->
 - Arjan Kuijper, Fraunhofer IGD & TU Darmstadt, Germany
 - Alessandro Lanza, University of Bologna, Italy
 - Jonas Latz, University of Manchester, United Kingdom
-- François Bernard, Lauze University of Copenhagen, Denmark
-- Damiana Lazzaro, University of Bologna, Italy
+- François Lauze, University of Copenhagen, Denmark
 - Tristan van Leeuwen, University of Utrecht & CWI, Netherlands
 - Carole Le Guyader, INSA Rouen Normandie, France
 - Jan Lellmann, University of Lübeck, Germany
 - Tony Lindeberg, KTH Royal Institute of Technology, Sweden
-- Elena Loli Piccolomini, University of Bologna, Italy
+<!-- - Elena Loli Piccolomini, University of Bologna, Italy -->
 - Felix Lucka, CWI, Netherlands
-- Jan Modersitzki, University of Lübeck, Germany
-- Michael Moeller, University of Siegen, Germany
+  <!-- - Jan Modersitzki, University of Lübeck, Germany -->
+  <!-- - Michael Moeller, University of Siegen, Germany -->
 - Serena Morigi, University of Bologna, Italy
-- Elena Morotti, University of Bologna, Italy
-- Subhadip Mukherjee, IIT-Kharagpur, India
+<!-- - Elena Morotti, University of Bologna, Italy -->
+- Subhadip Mukherjee, IIT Kharagpur, India
 - Sebastian Neumayer, TU Chemnitz, Germany
-- Alasdair James Newson, ISIR, France
-- Thomas Oberlin, ISAE-SUPAERO, France
-- Ozan Oktem, KTH - Royal Institute of Technology, Sweden
+- Alasdair James Newson, Sorbonne Université, France
+- Ozan Öktem, KTH - Royal Institute of Technology, Sweden
 - Gautam Pai, University of Twente, Netherlands
-- Nicolas Papadakis, CNRS, France
-- Barbara Pascal, CNRS, France
-- Jean-Christophe Pesquet, University Paris-Saclay, France
+- Nicolas Papadakis, CNRS, Institut de Mathématiques de Bordeaux, France
+- Kostas Papafitsoros, Queen Mary University of London, United Kingdom
+- Barbara Pascal, Nantes Université, École Centrale Nantes, CNRS, France
+<!-- - Jean-Christophe Pesquet, University Paris-Saclay, France -->
 - Pascal Peter, Saarland University, Germany
-- Romain Petit, CNRS and ENS Paris, France
-- Stefania Petra, University of Augsburg, Germany
+- Romain Petit, CNRS, ENS Paris, France
+<!-- - Stefania Petra, University of Augsburg, Germany -->
 - Aleksandra Pizurica, Ghent University, Belgium
-- Tom Pock, University of Graz, Austria
+- Thomas Pock, University of Graz, Austria
 - Monica Pragliola, University of Naples Federico II, Italy
-- Clarice Poon, University of Warwick, United Kingdom
+<!-- - Clarice Poon, University of Warwick, United Kingdom -->
 - Federica Porta, University of Modena and Reggio Emilia, Italy
 - Marco Prato, University of Modena and Reggio Emilia, Italy
-- Yvain Quéau, CNRS, France
-- Ronny Ramlau, JKU, Austria
+<!-- - Yvain Quéau, CNRS, France -->
+- Ronny Ramlau, Johannes Kepler University Linz and Johann Radon Institute, Austria
 - Luca Ratti, University of Bologna, Italy
 - Simone Rebegoldi, University of Modena and Reggio Emilia, Italy
-- Audrey Repetti, Heriot-Watt University, United Kingdom
-- Tim Roith, DESY, Germany
+<!-- - Audrey Repetti, Heriot-Watt University, United Kingdom -->
+- Danielle Richter, DESY, Germany
+- Tim Roith, Technical University of Munich, Germany
 - Matteo Santacesaria, University of Genoa, Italy
 - Otmar Scherzer, University of Vienna, Austria
 - Christoph Schnörr, Heidelberg University, Germany
-- Andrea Sebastiani, University of Modena and Reggio Emilia, Italy
-- Samuli Siltanen, University of Helsinki, Finland
-- Ferdia Sherry, University of Cambridge, United Kingdom
+- Andrea Sebastiani, University of Genoa, Italy
+  <!-- - Samuli Siltanen, University of Helsinki, Finland -->
+  <!-- - Ferdia Sherry, University of Cambridge, United Kingdom -->
 - Bart Smets, Eindhoven University of Technology, Netherlands
 - Stefan Sommer, University of Copenhagen, Denmark
-- Emmanuel Soubies, CNRS, France
-- Jean-Luc Starck, CEA Saclay, France
+  <!-- - Emmanuel Soubies, CNRS, France -->
+  <!-- - Jean-Luc Starck, CEA Saclay, France -->
 - Gabriele Steidl, TU Berlin, Germany
 - Xue-Cheng Tai, Norwegian Research Center, Norway
-- Matthew Thorpe, University of Warwick, United Kingdom
-- Yann Traonmilin, CNRS, France
+- Yann Traonmilin, CNRS, Institut de Mathématiques de Bordeaux, France
 - Tuomo Valkonen, MODEMAT, Ecuador
-- Silvia Villa, University of Genoa, Italy
+<!-- - Silvia Villa, University of Genoa, Italy -->
 - Marco Viola, Dublin City University, Ireland
 - Joachim Weickert, Saarland University, Germany
-- Pierre Weiss, CNRS & Université de Toulouse, France
-- Martin Welk, UMIT TIROL, Hall/Tyrol, Austria
+- Pierre Weiss, Université de Toulouse, France
+- Martin Welk, UMIT TIROL, Austria
