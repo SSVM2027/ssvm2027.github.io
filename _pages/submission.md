@@ -9,7 +9,7 @@ nav_order: 4
 
 All manuscripts should be prepared according to <a href="{{ site.baseurl }}/assets/pdf/lncs-instructions.pdf">LNCS format guidelines</a>.
 The LNCS template is available from <a href="https://link.springer.com/series/558/information-for-authors-and-editors">Springer</a> and on <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj">Overleaf</a>.
-Submissions are accepted in electronic form as single PDF files via the CMT conference website:
+Submissions are accepted in electronic form as single PDF files via the CMT website:
 
 <a class="submit-button" href="https://cmt3.research.microsoft.com/SSVM2027/Submission/Index">Submit @ CMT</a>
 
@@ -30,7 +30,7 @@ Note that manuscripts that do not follow these requirements will be rejected wit
 Authors are fully responsible for the entire content of their submission. We reserve the right to desk-reject any submission that violates standards of academic integrity, including plagiarism, undisclosed or otherwise improper use of AI tools, fabricated or hallucinated references, prompt injection, etc.
 Our expectations follow the <a href="https://link.springer.com/brands/springer/journal-policies">Springer journal policies</a>.
 
-<hr/>
+<h4>Microsoft's Conference Management Toolkit</h4>
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference.
 This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
