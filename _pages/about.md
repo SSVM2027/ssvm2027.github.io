@@ -80,6 +80,15 @@ A selection of topics includes:
   <li>Variational methods</li>
 </ul>
 
+### Keynote Speakers
+
+<ul>
+  <li>Alex Bronstein (Technion & Institute of Science and Technology Austria)</li>
+  <li>Giovanna Citti (Università di Bologna)</li>
+  <li>Michael Felsberg (Linköping University)</li>
+  <li>Gabriele Steidl (TU Berlin)</li>
+</ul>
+
 ### Support
 
 SSVM 2027 is grateful for the support of the following organizations:
