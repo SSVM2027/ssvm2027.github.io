@@ -83,10 +83,10 @@ A selection of topics includes:
 ### Keynote Speakers
 
 <ul>
-  <li>Alex Bronstein (Technion & Institute of Science and Technology Austria)</li>
+  <li><a href="{{ site.baseurl }}/people/#alex-bronstein">Alex Bronstein</a> (Technion & Institute of Science and Technology Austria)</li>
   <li>Giovanna Citti (Università di Bologna)</li>
-  <li>Michael Felsberg (Linköping University)</li>
-  <li>Gabriele Steidl (TU Berlin)</li>
+  <li><a href="{{ site.baseurl }}/people/#michael-felsberg">Michael Felsberg</a> (Linköping University)</li>
+  <li><a href="{{ site.baseurl }}/people/#gabriele-steidl">Gabriele Steidl</a> (TU Berlin)</li>
 </ul>
 
 ### Support

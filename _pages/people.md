@@ -27,6 +27,32 @@ nav_order: 8
 #       <p>Your City, State 12345</p>
 ---
 
+## Keynote Speakers
+
+<div class="keynote-speaker" id="alex-bronstein">
+<img src="{{ site.baseurl }}/assets/img/alex-bronstein.jpeg">
+<span class="keynote-speaker-name">Alex Bronstein</span> is a professor at the Institute of Science and Technology Austria with a secondary affiliation in the Department of Computer Science at the Technion — Israel Institute of Technology where he holds the Schmidt Chair in Artificial Intelligence and the Dan Broida Academic Chair, and directs the Center for Intelligent Systems. Bronstein’s work spans inverse problems, computational imaging, machine learning, and data-driven modeling for science and engineering. 
+He is a Fellow of IEEE and ELLIS and the recipient of four ERC grants. 
+Alongside academia, he is a technological entrepreneur, inventor, and investor, having co-founded and served in senior technical roles across ventures ranging from depth cameras and large-scale video search to medical devices, food tech, and quantitative finance. 
+His group is known for turning principled models into deployable systems, bridging theory, instrumentation, and real-world impact.
+</div>
+
+<div class="keynote-speaker" id="michael-felsberg">
+<img src="{{ site.baseurl }}/assets/img/michael-felsberg.jpeg">
+<span class="keynote-speaker-name">Michael Felsberg</span> received the Ph.D. degree from Kiel University, Germany, in 2002, and the Docent degree from Linköping University, Sweden, in 2005. 
+He has been a Full Professor with Linköping University, since 2008. 
+His research focuses on visual learning theory and includes also video object and instance segmentation, classification, segmentation, and registration of point clouds, as well as efficient machine learning techniques for incremental, few-shot, and long-tailed settings. He received the DAGM Olympus Award in 2005, the PAMI Mark Everingham Prize in 2026, and is a fellow of IAPR, ELLIS, and AAIA.
+</div>
+
+<div class="keynote-speaker" id="gabriele-steidl">
+<img src="{{ site.baseurl }}/assets/img/gabriele-steidl.jpg">
+<span class="keynote-speaker-name">Gabriele Steidl</span> received her PhD and Habilitation in Mathematics from the University of Rostock (Germany) and held positions as assistant and full professor at the TU Darmstadt, the University of Mannheim and the TU Kaiserslautern. 
+Since 2020, she is Professor at the Department of Mathematics at the TU Berlin.
+She worked as consultant of the Fraunhofer Institute for Industrial Mathematics and is in the Scientific Advisory Board of the Helmholtz Imaging Platform of the Helmholtz Association. 
+She is a SIAM Fellow (2022) and CNRS Fellow Ambassador (2026-2028) and serves as Editor-in-Chief of the SIAM Journal on Imaging Sciences. 
+She has broad interests in applied mathematics including computational harmonic analysis, continuous optimization and machine learning.
+</div>
+
 ## Organizing Committee
 
 <div class="grid">
@@ -153,7 +179,7 @@ nav_order: 8
 
   <div class="grid-item"> 
     <div class="card"> 
-      <img src="{{ site.baseurl }}/assets/img/gea-deddens.png"> 
+      <img src="{{ site.baseurl }}/assets/img/gea-deddens.jpg"> 
       <div class="card-body"> 
         <p class="card-title">Gea Deddens</p> 
         <p class="card-text">TU Eindhoven</p> 

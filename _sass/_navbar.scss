@@ -189,3 +189,10 @@
     color: var(--global-hover-color);
   }
 }
+
+@media (max-width: 768px) {
+  .navbar-collapse,
+  .navbar-nav {
+    background-color: var(--global-bg-color);
+  }
+}
