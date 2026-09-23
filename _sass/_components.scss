@@ -370,5 +370,8 @@ a.submit-button {
     margin-top: 0.2rem;
     margin-left: 0.8rem;
     margin-bottom: 0.2rem;
+    box-shadow:
+      0 2px 5px 0 rgba(0, 0, 0, 0.16),
+      0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
   }
 }
