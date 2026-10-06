@@ -9,7 +9,7 @@ nav_order: 4
 
 All manuscripts should be prepared according to <a href="{{ site.baseurl }}/assets/pdf/lncs-instructions.pdf">LNCS format guidelines</a>.
 The LNCS template is available from <a href="https://link.springer.com/series/558/information-for-authors-and-editors">Springer</a> and on <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj">Overleaf</a>.
-Submissions are accepted in electronic form as single PDF files via the CMT website:
+Submissions are accepted in electronic form as single PDF file via the CMT website:
 
 <a class="submit-button" href="https://cmt3.research.microsoft.com/SSVM2027/Submission/Index">Submit @ CMT</a>
 
