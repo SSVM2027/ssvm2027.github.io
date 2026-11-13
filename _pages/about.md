@@ -84,7 +84,7 @@ A selection of topics includes:
 
 <ul>
   <li><a href="{{ site.baseurl }}/people/#alex-bronstein">Alex Bronstein</a> (Technion & Institute of Science and Technology Austria)</li>
-  <li>Giovanna Citti (Università di Bologna)</li>
+  <li><a href="{{ site.baseurl }}/people/#giovanna-citti">Giovanna Citti</a> (Università di Bologna)</li>
   <li><a href="{{ site.baseurl }}/people/#michael-felsberg">Michael Felsberg</a> (Linköping University)</li>
   <li><a href="{{ site.baseurl }}/people/#gabriele-steidl">Gabriele Steidl</a> (TU Berlin)</li>
 </ul>

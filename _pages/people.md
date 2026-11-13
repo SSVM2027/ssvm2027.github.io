@@ -39,6 +39,15 @@ Alongside academia, he is a technological entrepreneur, inventor, and investor, 
 His group is known for turning principled models into deployable systems, bridging theory, instrumentation, and real-world impact.
 </div>
 
+<div class="keynote-speaker" id="giovanna-citti">
+<a href="https://bron.cs.technion.ac.il/" class="keynote-speaker-name">Giovanna Citti</a> 
+ is full professor at the University of Bologna (UNIBO), codirector of the ISA interdisciplinar international focus group Neuromathematics and Vision between UNIBO and EHESS-Paris and member of the scienfic commitee of the PhD School of Mathematics, UNIBO.
+ From 2006 to 2008 she has been Director of the Master in Mathematics, UNIBO.
+ She is a member of the editorial board of the journal AGMS Analysis and Geometry in Metric Spaces, and of the Springer series Lecture Notes in Morphogenesis. 
+ She has also been an invited editor of two special issues of the Journal of Physiology-Paris and a Springer monography on Models of Vision.
+ Her main research themes are curvature equations in Cauchy-Riemann manifolds and Lie groups with a sub-Riemannian metric as well as models of visual perception in Lie goups.
+</div>
+
 <div class="keynote-speaker" id="michael-felsberg">
 <a href="https://liu.se/en/employee/micfe03">
   <img src="{{ site.baseurl }}/assets/img/michael-felsberg.jpeg">
