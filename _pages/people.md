@@ -40,7 +40,7 @@ His group is known for turning principled models into deployable systems, bridgi
 </div>
 
 <div class="keynote-speaker" id="giovanna-citti">
-<a href="https://bron.cs.technion.ac.il/" class="keynote-speaker-name">Giovanna Citti</a> 
+<a href="https://www.dm.unibo.it/~citti/" class="keynote-speaker-name">Giovanna Citti</a> 
  is full professor at the University of Bologna (UNIBO), codirector of the ISA interdisciplinar international focus group Neuromathematics and Vision between UNIBO and EHESS-Paris and member of the scienfic commitee of the PhD School of Mathematics, UNIBO.
  From 2006 to 2008 she has been Director of the Master in Mathematics, UNIBO.
  She is a member of the editorial board of the journal AGMS Analysis and Geometry in Metric Spaces, and of the Springer series Lecture Notes in Morphogenesis. 
